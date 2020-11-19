@@ -4,10 +4,13 @@
 #### 역할 : 데이터 전처리, EDA과정, 모델설계 및 구현
 #### 링크에 들어간후, 스쿨존위험예측_EDA_Modeling_Mapping.ipynb에 들어가시면 모델링 과정을 보실 수 있습니다.
 * [github 링크](https://github.com/kimseojeong6533/SZ-Wannabe/blob/master/%EC%8A%A4%EC%BF%A8%EC%A1%B4%EC%9C%84%ED%97%98%EC%98%88%EC%B8%A1_EDA_Modeling_Mapping.ipynb)
+* [구현 동영상](https://youtu.be/aDm0r-_bh3I) 
+
 
 ## 자연어처리와 시계열분석 기반의 주가분석 및 예측시스템 
 #### 역할 : NLP 및 Prophet모델 생성
 * [github 링크](https://github.com/ejihoon6065/Project_TurnAround)
+* [구현 동영상](https://youtu.be/OGY-zS1_KOE) 
 
 
 
