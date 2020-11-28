@@ -14,6 +14,6 @@
 
 ## 리그오브레전드 인게임 오브젝트와 승률간의 관계분석 및 승률예측 모델 구축
 #### 역할 : 로그데이터를 활용한 데이터분석 및 승률예측 모델 설계 및 구현 
-
+* [github 링크](https://github.com/kimseojeong6533/OPGG_DATAANALYSIS_HW/blob/main/Data_Anlaysis_HW_OPGG.ipynb)ㅇ
 
 
