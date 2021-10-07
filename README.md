@@ -7,7 +7,7 @@
 
 
 ## 자연어처리와 시계열분석 기반의 주가분석 및 예측시스템 
-#### 역할 : 1) 뉴스기사데이터 크롤링 및 전처리 자동화, 2) 시계열 예측을 위한 Prophet모델과 AutoML을 이용한 최적의 머신러닝 모델 생성
+#### 역할 : 1) 뉴스기사데이터 크롤링 및 전처리 자동화, 2) 시계열 예측을 위한 Prophet모델과 AutoML을 이용한 최적의 머신러닝 모델 생성 3) StreamLit 프레임워크를 활용한 웹 개발
 * [github 링크](https://github.com/ejihoon6065/Project_TurnAround)
 * [구현코드1)](https://github.com/ejihoon6065/Project_TurnAround/blob/master/Main%20Code/StockCrawling_AutoML_Prophet_github.ipynb)
 * [구현코드2)](https://url.kr/l8tEuA)
